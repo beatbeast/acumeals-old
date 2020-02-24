@@ -16,7 +16,7 @@
                                 <div class="container">
                                     <div class="row">
                                         <div class="col-md-5 col-sm-7">
-                                            <h2>Create a Stack account</h2>
+                                            <h2>Create an Acumeals account</h2>
                                             <span>Already have an account?
                                                 <a href="#">Sign In</a>
                                             </span>
@@ -32,6 +32,9 @@
                                                     <div class="col-xs-12">
                                                         <input name="email" type="email" placeholder="Email Address">
                                                     </div>
+                                                    <!-- <div class="col-xs-12">
+                                                        <input type="file" name="profile_picture" placeholder="Upload your Profile Picture">
+                                                    </div> -->
                                                     <div class="col-xs-12">
                                                         <input name="password" id="password" type="password" placeholder="Password">
                                                     </div>
@@ -47,7 +50,7 @@
                                                         <span>Remember Me</span>
                                                     </div>
                                                     <div class="col-xs-12">
-                                                        <button class="btn btn--primary" type="submit">Create Account</button>
+                                                        <button class="btn btn--primary" type="submit" name="submit" value="submit">Create Account</button>
                                                     </div>
                                                     <hr>
                                                     <div class="col-xs-12">

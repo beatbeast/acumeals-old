@@ -26,7 +26,7 @@
                                             <input type="password" placeholder="Password" name="password" required/>
                                         </div>
                                         <div class="col-sm-12">
-                                            <button class="btn btn--primary type--uppercase" type="submit">Login</button>
+                                            <button class="btn btn--primary type--uppercase" type="submit" name="submit" value="submit">Login</button>
                                         </div>
                                     </div>
                                     <!--end of row-->
